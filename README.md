@@ -1,8 +1,5 @@
 # Hi there, I'm Mohan Kumar - aka [MK] 👋
 
-
-## I'm a Developer, Tester, Hardworker !!
-
 def Myself():
   skills_with_proficiency = {'Python': 'Advance', 'SQL': 'Intermidiate', 'HTML & CSS': 'Beginner'}
   tools = ['numpy', 'pandas', 'sklearn', 'nltk', 'matplotlib', 'seaborn', 'keras', 'flask', 'tableau']
